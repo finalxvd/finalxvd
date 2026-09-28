@@ -1,7 +1,6 @@
 # How are you? 
+I'm Anthony! I use C++, [Occult / Occultlang](https://github.com/occultlang/occult), and can obviously do other languages as well! 
 
-My main project is [Occultlang](https://github.com/occultlang/occult) also known shorly as **Occult** and you should take a look! <br>
-Many more projects to come from me in the future!
-<br>
-<br>
-By the way, my main language I use is `C++` and I can do other languages too but ye :P
+I will post future projects here!
+
+Have a nice day! 
